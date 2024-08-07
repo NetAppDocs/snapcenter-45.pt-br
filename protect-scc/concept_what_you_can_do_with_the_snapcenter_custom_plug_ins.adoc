@@ -1,0 +1,23 @@
+---
+permalink: protect-scc/concept_what_you_can_do_with_the_snapcenter_custom_plug_ins.html 
+sidebar: sidebar 
+keywords:  
+summary: Você pode usar os plug-ins personalizados do SnapCenter para operações de proteção de dados. 
+---
+= O que você pode fazer com os plug-ins personalizados do SnapCenter
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Você pode usar os plug-ins personalizados do SnapCenter para operações de proteção de dados.
+
+* Adicione recursos como bancos de dados, instâncias, documentos ou espaços de tabela.
+* Criar backups.
+* Restauração a partir de backups.
+* Backups de clones.
+* Agendar operações de backup.
+* Monitore operações de backup, restauração e clone.
+* Exibir relatórios para operações de backup, restauração e clone.
+
